@@ -1,3 +1,8 @@
+#custom
+notes.md
+concept.yml
+extraction.yml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
